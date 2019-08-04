@@ -6,7 +6,7 @@
 /*
  * Your customer ViewModel code goes here
  */
-define(['knockout', 'ojs/ojarraydataprovider', 'text!data/trans.json','ojs/ojknockout', 'ojs/ojchart'],
+/*define(['knockout', 'ojs/ojarraydataprovider', 'text!data/trans.json','ojs/ojknockout', 'ojs/ojchart'],
  function(ko, ArrayDataProvider, trans) {
 
     function IncidentsViewModel(){
