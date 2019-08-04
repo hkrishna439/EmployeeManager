@@ -1,0 +1,59 @@
+<!--
+ Copyright (c) 2014, 2019, Oracle and/or its affiliates.
+ The Universal Permissive License (UPL), Version 1.0
+ -->
+
+<div class="oj-hybrid-padding">
+
+  
+  <div class="oj-flex">
+    <div class="oj-sm-only-flex-direction-column oj-flex-item oj-flex">
+      <div class="oj-flex-item">
+
+          <div style="margin-left:30%" >   
+          
+             <oj-label for="text-input">First Name</oj-label>
+              <oj-input-text id="text-input" value="{{fname}}"></oj-input-text>
+            
+              <oj-label for="text-input">Last Name</oj-label>
+              <oj-input-text id="text-input" value="{{lname}}"></oj-input-text>
+              <oj-label for="text-input">Email</oj-label>
+              <oj-input-text id="text-input" value="{{email}}"></oj-input-text>
+              <oj-label for="text-input">Mobile</oj-label>
+              <oj-input-text id="text-input" value="{{mobile}}"></oj-input-text>
+              <oj-label for="date">DOB</oj-label>
+              <oj-input-date id="date" value='{{date}}' min="1997-01-01" max="2019-12-06"></oj-input-date>
+              <oj-label for="date">Course</oj-label>
+              <oj-select-one id="basicSelect" value="{{course}}" style="max-width:18em">
+                  <oj-option value="">select</oj-option>
+                  <oj-option value="cs">Computer Science</oj-option>
+                  <oj-option value="ec">Electronics</oj-option>
+                  <oj-option value="ee">Electrical</oj-option>
+                  <oj-option value="ce">Civil</oj-option>
+                  <oj-option value="me">Mechanical</oj-option>
+                </oj-select-one>
+              <oj-label for="date">Gender</oj-label>
+              <oj-radioset id="radioset1" options="{{genderDP}}" value="{{selectVal}}" class="oj-choice-direction-row"></oj-radioset>
+             <br>
+              <oj-button type="submit" id="submit" style="width: 100px; height:30px">submit</oj-button>
+            </div>
+      
+                     
+      </div>
+    </div>
+    <div class="oj-flex-item">
+        <span class="oj-label">Details: </span>
+              <span data-bind="text: fname"></span>
+              <span data-bind="text: lname"></span><br>
+              <span data-bind="text: email"></span><br>
+              <span data-bind="text: mobile"></span><br>
+              <span data-bind="text: date"></span><br>
+              <span id="curr-value"><oj-bind-text value="[[course]]"></oj-bind-text></span><br>
+              <span id="selectedval">
+                  <oj-bind-text value="[[selectVal]]"></oj-bind-text>
+                </span>
+
+              
+    </div>
+  </div>
+</div>

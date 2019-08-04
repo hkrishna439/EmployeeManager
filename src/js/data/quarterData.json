@@ -1,0 +1,146 @@
+[
+    {
+      "id": 0,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:21:00Z",
+      "value": 74
+    },
+    {
+      "id": 1,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 42
+    },
+    {
+      "id": 2,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 70
+    },
+    {
+      "id": 3,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 46
+    },
+    {
+      "id": 4,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 50
+    },
+    {
+      "id": 5,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 58
+    },
+    {
+      "id": 6,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:21:00Z",
+      "value": 74
+    },
+    {
+      "id": 7,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 42
+    },
+    {
+      "id": 8,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 70
+    },
+    {
+      "id": 9,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:20:00Z",
+      "value": 46
+    },
+    {
+      "id": 10,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:23:00Z",
+      "value": 50
+    },
+    {
+      "id": 11,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:23:00Z",
+      "value": 58
+    },
+    {
+      "id": 12,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 74
+    },
+    {
+      "id": 13,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 42
+    },
+    {
+      "id": 14,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:20:00Z",
+      "value": 70
+    },
+    {
+      "id": 15,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 46
+    },
+    {
+      "id": 16,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 50
+    },
+    {
+      "id": 17,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 58
+    },
+    {
+      "id": 18,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 74
+    },
+    {
+      "id": 19,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 42
+    },
+    {
+      "id": 20,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:20:00Z",
+      "value": 70
+    },
+    {
+      "id": 21,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T23:20:00Z",
+      "value": 46
+    },
+    {
+      "id":22 ,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T22:20:00Z",
+      "value": 50
+    },
+    {
+      "id": 23,
+      "series": "Series 1",
+      "transactionRequestDateTime": "2019-06-24T21:20:00Z",
+      "value": 58
+    }
+  ]
